@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">KoinCorountines</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Pesquisar</string>
+    <string name="menu_mylist">Minha Lista</string>
+    <string name="base_error">Erro</string>
+
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="up_coming">Up Coming</string>
+
 </resources>
